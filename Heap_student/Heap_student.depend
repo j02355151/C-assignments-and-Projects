@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1723889641 source:c:\users\lau10\desktop\heap_student\main.cpp
+	<iostream>
+	<vector>
+
